@@ -1,4 +1,4 @@
-module github.com/marmotedu/errors
+module github.com/francislyj/go-errors
 
 go 1.16
 
